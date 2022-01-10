@@ -17,7 +17,7 @@
     "proper-lockfile": "^4.1.2",
     "semver": "^7.3.5",
     "serialize-javascript": "^6.0.0",
-    "signal-exit": "^3.0.5",
+    "signal-exit": "^3.0.6",
     "ua-parser-js": "^1.0.2",
     "ufo": "^0.7.9"
   },
